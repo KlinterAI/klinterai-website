@@ -1,0 +1,545 @@
+﻿Sl. No.,Image Filename,Anomaly,Anomaly,Classification of Image,Image Classification Level 2,Image Classification Level 1,,Tr/Te
+144,Cluster-Safe-\\0\\image-1232.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+153,Cluster-Safe-\\0\\image-1287.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+158,Cluster-Safe-\\0\\image-1338.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+206,Cluster-Safe-\\0\\image-1686.jpg,1,Normal,Potential Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,7,Test
+404,Cluster-Safe-\\2\\image-1111.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+512,Cluster-Safe-\\2\\image-1893.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+602,Cluster-Safe-\\3\\image-798.jpg,1,Anomaly,Risk,Special Mechanical Systems,Mechanical,7,Test
+831,Cluster-Safe-\\6\\image-725.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+879,Cluster-Safe-\\6\\image-1198.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+884,Cluster-Safe-\\6\\image-1239.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+1008,Cluster-Safe-\\8\\image-277.jpg,1,Anomaly,Risk,,#N/A,7,Test
+1311,Cluster-Safe-\\9\\image-1572.jpg,1,Anomaly,Risk,,#N/A,7,Test
+1389,Cluster-Safe-\\13\\image-601.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+1411,Cluster-Safe-\\13\\image-862.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+1535,Cluster-Safe-\\14\\image-375.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+107,Cluster-Safe-\\0\\image-854.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,7,Test
+339,Cluster-Safe-\\2\\image-638.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,7,Test
+438,Cluster-Safe-\\2\\image-1345.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+462,Cluster-Safe-\\2\\image-1536.jpg,1,Anomaly,Risk,A10 Foundations,A SUBSTRUCTURE,7,Test
+522,Cluster-Safe-\\3\\image-30.jpeg,0,Normal,Potential Issue,,#N/A,7,Test
+662,Cluster-Safe-\\3\\image-1331.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,7,Test
+700,Cluster-Safe-\\3\\image-1693.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+735,Cluster-Safe-\\6\\image-4.jpeg,0,Normal,Potential Issue,,#N/A,7,Test
+805,Cluster-Safe-\\6\\image-526.jpg,1,Anomaly,Risk,G30 Site Mechanical Utilities,G BUILDING SITEWORK,7,Test
+985,Cluster-Safe-\\8\\image-62.jpg,1,Anomaly,Risk,,#N/A,7,Test
+1005,Cluster-Safe-\\8\\image-245.jpg,1,Anomaly,Issue,,#N/A,7,Test
+1040,Cluster-Safe-\\8\\image-558.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+1088,Cluster-Safe-\\8\\image-954.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+1106,Cluster-Safe-\\8\\image-1090.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+1239,Cluster-Safe-\\9\\image-727.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+1255,Cluster-Safe-\\9\\image-915.jpg,1,Anomaly,Risk,,#N/A,7,Test
+1314,Cluster-Safe-\\9\\image-1604.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+1485,Cluster-Safe-\\13\\image-1749.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+1594,Cluster-Safe-\\14\\image-1276.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+1690,Cluster-Safe-\\17\\image-293.jpg,1,Anomaly,Issue,,#N/A,7,Test
+1746,Cluster-Safe-\\17\\image-969.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+1793,Cluster-Safe-\\17\\image-1494.jpg,1,Anomaly,Risk,,#N/A,7,Test
+77,Cluster-Safe-\\0\\image-577.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,7,Test
+251,Cluster-Safe-\\2\\image-0.jpeg,1,Anomaly,Issue,B20 Exterior Enclosure,B SHELL,7,Test
+270,Cluster-Safe-\\2\\image-184.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+358,Cluster-Safe-\\2\\image-774.jpg,1,Anomaly,Risk,Special Mechanical Systems,Mechanical,7,Test
+391,Cluster-Safe-\\2\\image-1017.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+409,Cluster-Safe-\\2\\image-1138.jpg,1,Anomaly,Risk,Special Mechanical Systems,Mechanical,7,Test
+418,Cluster-Safe-\\2\\image-1209.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+470,Cluster-Safe-\\2\\image-1601.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+676,Cluster-Safe-\\3\\image-1470.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+756,Cluster-Safe-\\6\\image-186.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+798,Cluster-Safe-\\6\\image-499.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+941,Cluster-Safe-\\6\\image-1624.jpg,1,Anomaly,Issue,,#N/A,7,Test
+1192,Cluster-Safe-\\9\\image-178.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+1215,Cluster-Safe-\\9\\image-509.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+1242,Cluster-Safe-\\9\\image-782.jpg,1,Anomaly,Issue,,#N/A,7,Test
+1441,Cluster-Safe-\\13\\image-1181.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+1503,Cluster-Safe-\\13\\image-1909.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+1519,Cluster-Safe-\\14\\image-153.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+1585,Cluster-Safe-\\14\\image-1132.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+1774,Cluster-Safe-\\17\\image-1216.jpg,1,Anomaly,Risk,,#N/A,7,Test
+334,Cluster-Safe-\\2\\image-619.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,7,Test
+380,Cluster-Safe-\\2\\image-940.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,7,Test
+1183,Cluster-Safe-\\9\\image-114.jpg,1,Anomaly,Risk,,#N/A,7,Test
+1402,Cluster-Safe-\\13\\image-744.jpg,1,Anomaly,Risk,,#N/A,7,Test
+1403,Cluster-Safe-\\13\\image-754.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+1662,Cluster-Safe-\\14\\image-1961.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+1712,Cluster-Safe-\\17\\image-623.jpg,0,Anomaly,Risk,,#N/A,7,Test
+1786,Cluster-Safe-\\17\\image-1376.jpg,1,Anomaly,Risk,,#N/A,7,Test
+245,Cluster-Safe-\\0\\image-1964.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+283,Cluster-Safe-\\2\\image-259.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+303,Cluster-Safe-\\2\\image-403.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,7,Test
+820,Cluster-Safe-\\6\\image-637.jpg,1,Anomaly,Risk,Special Mechanical Systems,Mechanical,7,Test
+848,Cluster-Safe-\\6\\image-936.jpg,1,Anomaly,Risk,Special Mechanical Systems,Mechanical,7,Test
+948,Cluster-Safe-\\6\\image-1671.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+1162,Cluster-Safe-\\8\\image-1838.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+1203,Cluster-Safe-\\9\\image-339.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+1222,Cluster-Safe-\\9\\image-553.jpg,1,Anomaly,Risk,,#N/A,7,Test
+1262,Cluster-Safe-\\9\\image-1045.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+1426,Cluster-Safe-\\13\\image-1084.jpg,1,Anomaly,Risk,,#N/A,7,Test
+1447,Cluster-Safe-\\13\\image-1321.jpg,1,Anomaly,Risk,,#N/A,7,Test
+1537,Cluster-Safe-\\14\\image-412.jpg,1,Anomaly,Risk,,#N/A,7,Test
+1609,Cluster-Safe-\\14\\image-1472.jpg,1,Anomaly,Issue,,#N/A,7,Test
+1734,Cluster-Safe-\\17\\image-845.jpg,1,Anomaly,Issue,,#N/A,7,Test
+134,Cluster-Safe-\\0\\image-1105.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+287,Cluster-Safe-\\2\\image-287.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+330,Cluster-Safe-\\2\\image-572.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+395,Cluster-Safe-\\2\\image-1064.jpg,1,Anomaly,Issue,F10 Special Construction,F SPECIAL CONSTRUCTION & DEMOLITION,7,Test
+435,Cluster-Safe-\\2\\image-1327.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+463,Cluster-Safe-\\2\\image-1549.jpg,1,Anomaly,Risk,Special Mechanical Systems,Mechanical,7,Test
+467,Cluster-Safe-\\2\\image-1575.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,7,Test
+496,Cluster-Safe-\\2\\image-1773.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,7,Test
+635,Cluster-Safe-\\3\\image-1094.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+696,Cluster-Safe-\\3\\image-1649.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+863,Cluster-Safe-\\6\\image-1095.jpg,1,Anomaly,Risk,,#N/A,7,Test
+940,Cluster-Safe-\\6\\image-1616.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+1145,Cluster-Safe-\\8\\image-1559.jpg,1,Anomaly,Issue,,#N/A,7,Test
+1399,Cluster-Safe-\\13\\image-730.jpg,1,Anomaly,Issue,,#N/A,7,Test
+1417,Cluster-Safe-\\13\\image-964.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+1470,Cluster-Safe-\\13\\image-1573.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+1607,Cluster-Safe-\\14\\image-1421.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+1702,Cluster-Safe-\\17\\image-475.jpg,1,Anomaly,Risk,,#N/A,7,Test
+1738,Cluster-Safe-\\17\\image-877.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+45,Cluster-Safe-\\0\\image-317.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+80,Cluster-Safe-\\0\\image-603.jpg,1,Anomaly,Risk,G30 Site Mechanical Utilities,G BUILDING SITEWORK,7,Test
+277,Cluster-Safe-\\2\\image-238.jpg,1,Normal,No Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,7,Test
+313,Cluster-Safe-\\2\\image-495.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+393,Cluster-Safe-\\2\\image-1037.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+411,Cluster-Safe-\\2\\image-1157.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,7,Test
+422,Cluster-Safe-\\2\\image-1224.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+453,Cluster-Safe-\\2\\image-1461.jpg,1,Anomaly,Issue,B20 Exterior Enclosure,B SHELL,7,Test
+535,Cluster-Safe-\\3\\image-142.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,7,Test
+565,Cluster-Safe-\\3\\image-438.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,7,Test
+581,Cluster-Safe-\\3\\image-645.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+892,Cluster-Safe-\\6\\image-1289.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+951,Cluster-Safe-\\6\\image-1697.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+1039,Cluster-Safe-\\8\\image-556.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+1305,Cluster-Safe-\\9\\image-1519.jpg,1,Anomaly,Risk,,#N/A,7,Test
+1421,Cluster-Safe-\\13\\image-1014.jpg,1,Anomaly,Risk,,#N/A,7,Test
+1536,Cluster-Safe-\\14\\image-393.jpg,1,Anomaly,Issue,,#N/A,7,Test
+1699,Cluster-Safe-\\17\\image-432.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+1707,Cluster-Safe-\\17\\image-585.jpg,1,Anomaly,Issue,,#N/A,7,Test
+1713,Cluster-Safe-\\17\\image-628.jpg,1,Anomaly,Risk,,#N/A,7,Test
+1739,Cluster-Safe-\\17\\image-893.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+83,Cluster-Safe-\\0\\image-626.jpg,1,Anomaly,Risk,G30 Site Mechanical Utilities,G BUILDING SITEWORK,7,Test
+219,Cluster-Safe-\\0\\image-1769.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+235,Cluster-Safe-\\0\\image-1883.jpg,1,Anomaly,Risk,F10 Special Construction,F SPECIAL CONSTRUCTION & DEMOLITION,7,Test
+538,Cluster-Safe-\\3\\image-161.jpg,1,Anomaly,Issue,Special Mechanical Systems,Mechanical,7,Test
+543,Cluster-Safe-\\3\\image-203.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+830,Cluster-Safe-\\6\\image-722.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+934,Cluster-Safe-\\6\\image-1578.jpg,1,Anomaly,Risk,,#N/A,7,Test
+991,Cluster-Safe-\\8\\image-121.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+1001,Cluster-Safe-\\8\\image-211.jpg,1,Anomaly,Issue,,#N/A,7,Test
+1064,Cluster-Safe-\\8\\image-745.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+1072,Cluster-Safe-\\8\\image-811.jpg,1,Anomaly,Risk,,#N/A,7,Test
+1142,Cluster-Safe-\\8\\image-1508.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+1164,Cluster-Safe-\\8\\image-1845.jpg,1,Anomaly,Risk,,#N/A,7,Test
+1247,Cluster-Safe-\\9\\image-815.jpg,1,Anomaly,Issue,,#N/A,7,Test
+1253,Cluster-Safe-\\9\\image-908.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+1382,Cluster-Safe-\\13\\image-464.jpg,1,Anomaly,Risk,,#N/A,7,Test
+1701,Cluster-Safe-\\17\\image-444.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+1798,Cluster-Safe-\\17\\image-1541.jpg,1,Anomaly,Risk,,#N/A,7,Test
+1806,Cluster-Safe-\\17\\image-1596.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+28,Cluster-Safe-\\0\\image-180.jpg,0,Normal,Potential Issue,EQUIPMENT,E EQUIPMENT & FURNISHINGS,7,Test
+349,Cluster-Safe-\\2\\image-709.jpg,1,Anomaly,Risk,Special Mechanical Systems,Mechanical,7,Test
+398,Cluster-Safe-\\2\\image-1083.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,7,Test
+659,Cluster-Safe-\\3\\image-1303.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+784,Cluster-Safe-\\6\\image-387.jpg,1,Anomaly,Issue,A10 Foundations,A SUBSTRUCTURE,7,Test
+835,Cluster-Safe-\\6\\image-790.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+871,Cluster-Safe-\\6\\image-1166.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+929,Cluster-Safe-\\6\\image-1503.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+958,Cluster-Safe-\\6\\image-1768.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+974,Cluster-Safe-\\6\\image-1918.jpg,1,Anomaly,Risk,,#N/A,7,Test
+984,Cluster-Safe-\\8\\image-61.jpg,1,Anomaly,Issue,,#N/A,7,Test
+1003,Cluster-Safe-\\8\\image-227.jpg,1,Anomaly,Risk,,#N/A,7,Test
+1030,Cluster-Safe-\\8\\image-455.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+1054,Cluster-Safe-\\8\\image-661.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+1187,Cluster-Safe-\\9\\image-162.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+1306,Cluster-Safe-\\9\\image-1527.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+1346,Cluster-Safe-\\13\\image-96.jpg,1,Anomaly,Risk,,#N/A,7,Test
+1428,Cluster-Safe-\\13\\image-1104.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+370,Cluster-Safe-\\2\\image-865.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+407,Cluster-Safe-\\2\\image-1123.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+511,Cluster-Safe-\\2\\image-1889.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,7,Test
+912,Cluster-Safe-\\6\\image-1399.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+1010,Cluster-Safe-\\8\\image-318.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+1017,Cluster-Safe-\\8\\image-358.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+1021,Cluster-Safe-\\8\\image-389.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+1069,Cluster-Safe-\\8\\image-769.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+1433,Cluster-Safe-\\13\\image-1139.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+1462,Cluster-Safe-\\13\\image-1507.jpg,1,Anomaly,Issue,,#N/A,7,Test
+1528,Cluster-Safe-\\14\\image-289.jpg,1,Anomaly,Issue,,#N/A,7,Test
+1622,Cluster-Safe-\\14\\image-1568.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+1708,Cluster-Safe-\\17\\image-589.jpg,0,Normal,Potential Issue,,#N/A,7,Test
+1716,Cluster-Safe-\\17\\image-679.jpg,0,Normal,Potential Risk,,#N/A,7,Test
+233,Cluster-Safe-\\0\\image-1848.jpg,1,Anomaly,Risk,Special Mechanical Systems,Mechanical,8,Test
+281,Cluster-Safe-\\2\\image-256.jpg,1,Anomaly,Risk,B20 Exterior Enclosure,B SHELL,8,Test
+378,Cluster-Safe-\\2\\image-901.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,8,Test
+561,Cluster-Safe-\\3\\image-371.jpg,1,Anomaly,Risk,Special Mechanical Systems,Mechanical,8,Test
+663,Cluster-Safe-\\3\\image-1336.jpg,1,Anomaly,Risk,A10 Foundations,A SUBSTRUCTURE,8,Test
+793,Cluster-Safe-\\6\\image-461.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+804,Cluster-Safe-\\6\\image-524.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,8,Test
+845,Cluster-Safe-\\6\\image-916.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+856,Cluster-Safe-\\6\\image-1013.jpg,1,Anomaly,Risk,A10 Foundations,A SUBSTRUCTURE,8,Test
+901,Cluster-Safe-\\6\\image-1333.jpg,1,Anomaly,Risk,,#N/A,8,Test
+1009,Cluster-Safe-\\8\\image-291.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+1083,Cluster-Safe-\\8\\image-919.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+1479,Cluster-Safe-\\13\\image-1648.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+1517,Cluster-Safe-\\14\\image-126.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+1693,Cluster-Safe-\\17\\image-310.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+1825,Cluster-Safe-\\17\\image-1778.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+7,Cluster-Safe-\\0\\image-53.jpeg,1,Anomaly,Issue,B20 Exterior Enclosure,B SHELL,8,Test
+317,Cluster-Safe-\\2\\image-530.jpg,0,Normal,Potential Risk,F10 Special Construction,F SPECIAL CONSTRUCTION & DEMOLITION,8,Test
+371,Cluster-Safe-\\2\\image-867.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+587,Cluster-Safe-\\3\\image-696.jpg,1,Normal,No Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,8,Test
+612,Cluster-Safe-\\3\\image-899.jpg,1,Anomaly,Risk,Special Mechanical Systems,Mechanical,8,Test
+668,Cluster-Safe-\\3\\image-1388.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+678,Cluster-Safe-\\3\\image-1497.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+1063,Cluster-Safe-\\8\\image-741.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+1154,Cluster-Safe-\\8\\image-1737.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+1228,Cluster-Safe-\\9\\image-602.jpg,1,Anomaly,Issue,,#N/A,8,Test
+1308,Cluster-Safe-\\9\\image-1535.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+1511,Cluster-Safe-\\13\\image-1966.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+1704,Cluster-Safe-\\17\\image-489.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+1737,Cluster-Safe-\\17\\image-873.jpg,1,Anomaly,Issue,,#N/A,8,Test
+1766,Cluster-Safe-\\17\\image-1081.jpg,1,Anomaly,Risk,,#N/A,8,Test
+73,Cluster-Safe-\\0\\image-557.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+122,Cluster-Safe-\\0\\image-1000.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+186,Cluster-Safe-\\0\\image-1556.jpg,1,Anomaly,Risk,Special Mechanical Systems,Mechanical,8,Test
+306,Cluster-Safe-\\2\\image-424.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+615,Cluster-Safe-\\3\\image-911.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+651,Cluster-Safe-\\3\\image-1250.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+682,Cluster-Safe-\\3\\image-1530.jpg,1,Anomaly,Risk,G30 Site Mechanical Utilities,G BUILDING SITEWORK,8,Test
+690,Cluster-Safe-\\3\\image-1591.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+723,Cluster-Safe-\\3\\image-1886.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+1034,Cluster-Safe-\\8\\image-506.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+1056,Cluster-Safe-\\8\\image-665.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+1077,Cluster-Safe-\\8\\image-874.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+1089,Cluster-Safe-\\8\\image-957.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+1128,Cluster-Safe-\\8\\image-1334.jpg,1,Anomaly,Risk,,#N/A,8,Test
+1230,Cluster-Safe-\\9\\image-643.jpg,1,Anomaly,Risk,,#N/A,8,Test
+1384,Cluster-Safe-\\13\\image-511.jpg,1,Anomaly,Issue,,#N/A,8,Test
+1514,Cluster-Safe-\\14\\image-49.jpeg,0,Normal,Potential Issue,,#N/A,8,Test
+1521,Cluster-Safe-\\14\\image-179.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+1633,Cluster-Safe-\\14\\image-1661.jpg,0,Normal,No Issue,,#N/A,8,Test
+1728,Cluster-Safe-\\17\\image-766.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+1775,Cluster-Safe-\\17\\image-1231.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+1797,Cluster-Safe-\\17\\image-1533.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+1833,Cluster-Safe-\\17\\image-1915.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+51,Cluster-Safe-\\0\\image-370.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,8,Test
+365,Cluster-Safe-\\2\\image-837.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+560,Cluster-Safe-\\3\\image-356.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+611,Cluster-Safe-\\3\\image-880.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+666,Cluster-Safe-\\3\\image-1371.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+679,Cluster-Safe-\\3\\image-1506.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+704,Cluster-Safe-\\3\\image-1747.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+710,Cluster-Safe-\\3\\image-1800.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,8,Test
+915,Cluster-Safe-\\6\\image-1411.jpg,1,Anomaly,Issue,,#N/A,8,Test
+945,Cluster-Safe-\\6\\image-1655.jpg,1,Anomaly,Issue,,#N/A,8,Test
+981,Cluster-Safe-\\8\\image-45.jpeg,1,Anomaly,Issue,,#N/A,8,Test
+1151,Cluster-Safe-\\8\\image-1681.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+1190,Cluster-Safe-\\9\\image-170.jpg,1,Anomaly,Risk,,#N/A,8,Test
+1260,Cluster-Safe-\\9\\image-1023.jpg,1,Anomaly,Risk,,#N/A,8,Test
+1309,Cluster-Safe-\\9\\image-1558.jpg,1,Anomaly,Issue,,#N/A,8,Test
+1391,Cluster-Safe-\\13\\image-667.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+1563,Cluster-Safe-\\14\\image-799.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+1571,Cluster-Safe-\\14\\image-939.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+1659,Cluster-Safe-\\14\\image-1933.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+1696,Cluster-Safe-\\17\\image-386.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+1823,Cluster-Safe-\\17\\image-1740.jpg,1,Anomaly,Risk,,#N/A,8,Test
+58,Cluster-Safe-\\0\\image-408.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+118,Cluster-Safe-\\0\\image-967.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,8,Test
+248,Cluster-Safe-\\0\\image-1979.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+285,Cluster-Safe-\\2\\image-266.jpg,1,Anomaly,Risk,G30 Site Mechanical Utilities,G BUILDING SITEWORK,8,Test
+384,Cluster-Safe-\\2\\image-950.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+442,Cluster-Safe-\\2\\image-1394.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+597,Cluster-Safe-\\3\\image-772.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+640,Cluster-Safe-\\3\\image-1156.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,8,Test
+742,Cluster-Safe-\\6\\image-24.jpeg,0,Normal,Potential Issue,,#N/A,8,Test
+855,Cluster-Safe-\\6\\image-1006.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,8,Test
+1085,Cluster-Safe-\\8\\image-926.jpg,1,Anomaly,Risk,,#N/A,8,Test
+1283,Cluster-Safe-\\9\\image-1282.jpg,1,Anomaly,Issue,,#N/A,8,Test
+1285,Cluster-Safe-\\9\\image-1319.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+1291,Cluster-Safe-\\9\\image-1372.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+1322,Cluster-Safe-\\9\\image-1776.jpg,1,Anomaly,Issue,,#N/A,8,Test
+1401,Cluster-Safe-\\13\\image-742.jpg,1,Anomaly,Risk,,#N/A,8,Test
+1751,Cluster-Safe-\\17\\image-998.jpg,1,Anomaly,Issue,,#N/A,8,Test
+14,Cluster-Safe-\\0\\image-87.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,8,Test
+289,Cluster-Safe-\\2\\image-306.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+344,Cluster-Safe-\\2\\image-670.jpg,1,Anomaly,Risk,Special Mechanical Systems,Mechanical,8,Test
+390,Cluster-Safe-\\2\\image-1011.jpg,1,Anomaly,Risk,F10 Special Construction,F SPECIAL CONSTRUCTION & DEMOLITION,8,Test
+434,Cluster-Safe-\\2\\image-1309.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,8,Test
+457,Cluster-Safe-\\2\\image-1480.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+460,Cluster-Safe-\\2\\image-1522.jpg,1,Anomaly,Risk,B20 Exterior Enclosure,B SHELL,8,Test
+519,Cluster-Safe-\\2\\image-1950.jpg,1,Anomaly,Risk,Special Mechanical Systems,Mechanical,8,Test
+553,Cluster-Safe-\\3\\image-301.jpg,1,Anomaly,Issue,F10 Special Construction,F SPECIAL CONSTRUCTION & DEMOLITION,8,Test
+711,Cluster-Safe-\\3\\image-1807.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+771,Cluster-Safe-\\6\\image-309.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+844,Cluster-Safe-\\6\\image-900.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+870,Cluster-Safe-\\6\\image-1165.jpg,1,Anomaly,Risk,,#N/A,8,Test
+1081,Cluster-Safe-\\8\\image-905.jpg,1,Anomaly,Risk,,#N/A,8,Test
+1257,Cluster-Safe-\\9\\image-948.jpg,1,Anomaly,Issue,,#N/A,8,Test
+1270,Cluster-Safe-\\9\\image-1186.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+1325,Cluster-Safe-\\9\\image-1798.jpg,1,Anomaly,Risk,,#N/A,8,Test
+1588,Cluster-Safe-\\14\\image-1188.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+1683,Cluster-Safe-\\17\\image-202.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+120,Cluster-Safe-\\0\\image-994.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+159,Cluster-Safe-\\0\\image-1356.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+205,Cluster-Safe-\\0\\image-1683.jpg,1,Anomaly,Risk,,#N/A,8,Test
+284,Cluster-Safe-\\2\\image-265.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+288,Cluster-Safe-\\2\\image-296.jpg,1,Anomaly,Risk,D30 HVAC,D SERVICES,8,Test
+669,Cluster-Safe-\\3\\image-1406.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+772,Cluster-Safe-\\6\\image-315.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+813,Cluster-Safe-\\6\\image-598.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+872,Cluster-Safe-\\6\\image-1174.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+957,Cluster-Safe-\\6\\image-1753.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+1456,Cluster-Safe-\\13\\image-1430.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+1484,Cluster-Safe-\\13\\image-1741.jpg,1,Anomaly,Issue,,#N/A,8,Test
+1735,Cluster-Safe-\\17\\image-855.jpg,1,Anomaly,Risk,,#N/A,8,Test
+1828,Cluster-Safe-\\17\\image-1852.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+84,Cluster-Safe-\\0\\image-631.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+110,Cluster-Safe-\\0\\image-906.jpg,1,Anomaly,Risk,Special Mechanical Systems,Mechanical,8,Test
+239,Cluster-Safe-\\0\\image-1916.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+282,Cluster-Safe-\\2\\image-258.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+399,Cluster-Safe-\\2\\image-1085.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+400,Cluster-Safe-\\2\\image-1086.jpg,0,Normal,Potential Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,8,Test
+556,Cluster-Safe-\\3\\image-340.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+854,Cluster-Safe-\\6\\image-980.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+913,Cluster-Safe-\\6\\image-1401.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+930,Cluster-Safe-\\6\\image-1504.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+976,Cluster-Safe-\\6\\image-1942.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+1124,Cluster-Safe-\\8\\image-1271.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+1188,Cluster-Safe-\\9\\image-163.jpg,1,Anomaly,Risk,,#N/A,8,Test
+1378,Cluster-Safe-\\13\\image-420.jpg,1,Anomaly,Issue,,#N/A,8,Test
+1598,Cluster-Safe-\\14\\image-1348.jpg,1,Anomaly,Risk,,#N/A,8,Test
+1632,Cluster-Safe-\\14\\image-1660.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+1717,Cluster-Safe-\\17\\image-681.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+1747,Cluster-Safe-\\17\\image-982.jpg,1,Anomaly,Risk,,#N/A,8,Test
+12,Cluster-Safe-\\0\\image-78.jpg,1,Anomaly,Risk,Special Mechanical Systems,Mechanical,8,Test
+213,Cluster-Safe-\\0\\image-1745.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+222,Cluster-Safe-\\0\\image-1783.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,8,Test
+226,Cluster-Safe-\\0\\image-1818.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+286,Cluster-Safe-\\2\\image-279.jpg,1,Anomaly,Risk,F10 Special Construction,F SPECIAL CONSTRUCTION & DEMOLITION,8,Test
+451,Cluster-Safe-\\2\\image-1445.jpg,1,Anomaly,Issue,F10 Special Construction,F SPECIAL CONSTRUCTION & DEMOLITION,8,Test
+537,Cluster-Safe-\\3\\image-154.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+605,Cluster-Safe-\\3\\image-851.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,8,Test
+787,Cluster-Safe-\\6\\image-418.jpg,1,Anomaly,Risk,G30 Site Mechanical Utilities,G BUILDING SITEWORK,8,Test
+828,Cluster-Safe-\\6\\image-719.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+880,Cluster-Safe-\\6\\image-1199.jpg,1,Anomaly,Issue,,#N/A,8,Test
+922,Cluster-Safe-\\6\\image-1449.jpg,1,Anomaly,Issue,,#N/A,8,Test
+1029,Cluster-Safe-\\8\\image-447.jpg,1,Anomaly,Risk,,#N/A,8,Test
+1138,Cluster-Safe-\\8\\image-1422.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+1227,Cluster-Safe-\\9\\image-595.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+1344,Cluster-Safe-\\13\\image-73.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+1375,Cluster-Safe-\\13\\image-401.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+1450,Cluster-Safe-\\13\\image-1358.jpg,1,Anomaly,Risk,,#N/A,8,Test
+1527,Cluster-Safe-\\14\\image-281.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+1584,Cluster-Safe-\\14\\image-1109.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+1686,Cluster-Safe-\\17\\image-270.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+74,Cluster-Safe-\\0\\image-566.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,8,Test
+314,Cluster-Safe-\\2\\image-517.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+410,Cluster-Safe-\\2\\image-1146.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+471,Cluster-Safe-\\2\\image-1609.jpg,0,Normal,Potential Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,8,Test
+603,Cluster-Safe-\\3\\image-812.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+968,Cluster-Safe-\\6\\image-1887.jpg,1,Anomaly,Risk,,#N/A,8,Test
+1371,Cluster-Safe-\\13\\image-351.jpg,1,Anomaly,Issue,,#N/A,8,Test
+1398,Cluster-Safe-\\13\\image-716.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+1545,Cluster-Safe-\\14\\image-478.jpg,0,Normal,Potential Risk,,#N/A,8,Test
+1611,Cluster-Safe-\\14\\image-1493.jpg,0,Normal,Potential Issue,,#N/A,8,Test
+1768,Cluster-Safe-\\17\\image-1116.jpg,1,Anomaly,Risk,,#N/A,8,Test
+9,Cluster-Safe-\\0\\image-72.jpg,0,Normal,Potential Issue,EQUIPMENT,E EQUIPMENT & FURNISHINGS,9,Test
+65,Cluster-Safe-\\0\\image-456.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,9,Test
+298,Cluster-Safe-\\2\\image-376.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+311,Cluster-Safe-\\2\\image-490.jpg,1,Anomaly,Risk,Special Mechanical Systems,Mechanical,9,Test
+482,Cluster-Safe-\\2\\image-1687.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+549,Cluster-Safe-\\3\\image-244.jpg,1,Anomaly,Risk,F10 Special Construction,F SPECIAL CONSTRUCTION & DEMOLITION,9,Test
+656,Cluster-Safe-\\3\\image-1285.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+1290,Cluster-Safe-\\9\\image-1365.jpg,1,Anomaly,Risk,,#N/A,9,Test
+1339,Cluster-Safe-\\9\\image-1998.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+1651,Cluster-Safe-\\14\\image-1888.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+1721,Cluster-Safe-\\17\\image-715.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+175,Cluster-Safe-\\0\\image-1458.jpg,1,Anomaly,Risk,Special Mechanical Systems,Mechanical,9,Test
+178,Cluster-Safe-\\0\\image-1476.jpg,0,Normal,No Issue,,#N/A,9,Test
+209,Cluster-Safe-\\0\\image-1711.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,9,Test
+392,Cluster-Safe-\\2\\image-1028.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+406,Cluster-Safe-\\2\\image-1122.jpg,1,Anomaly,Risk,G30 Site Mechanical Utilities,G BUILDING SITEWORK,9,Test
+521,Cluster-Safe-\\3\\image-22.jpeg,0,Normal,Potential Issue,,#N/A,9,Test
+532,Cluster-Safe-\\3\\image-133.jpg,1,Anomaly,Risk,F10 Special Construction,F SPECIAL CONSTRUCTION & DEMOLITION,9,Test
+644,Cluster-Safe-\\3\\image-1179.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+646,Cluster-Safe-\\3\\image-1195.jpg,1,Anomaly,Risk,F10 Special Construction,F SPECIAL CONSTRUCTION & DEMOLITION,9,Test
+1110,Cluster-Safe-\\8\\image-1124.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+1261,Cluster-Safe-\\9\\image-1026.jpg,1,Anomaly,Issue,,#N/A,9,Test
+1342,Cluster-Safe-\\13\\image-19.jpeg,1,Anomaly,Issue,,#N/A,9,Test
+1475,Cluster-Safe-\\13\\image-1615.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+1495,Cluster-Safe-\\13\\image-1849.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+1508,Cluster-Safe-\\13\\image-1948.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+1577,Cluster-Safe-\\14\\image-987.jpg,0,Normal,No Issue,,#N/A,9,Test
+1761,Cluster-Safe-\\17\\image-1054.jpg,1,Anomaly,Risk,,#N/A,9,Test
+1815,Cluster-Safe-\\17\\image-1679.jpg,1,Anomaly,Risk,,#N/A,9,Test
+18,Cluster-Safe-\\0\\image-101.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,9,Test
+25,Cluster-Safe-\\0\\image-160.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,9,Test
+53,Cluster-Safe-\\0\\image-384.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,9,Test
+95,Cluster-Safe-\\0\\image-791.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+171,Cluster-Safe-\\0\\image-1429.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+211,Cluster-Safe-\\0\\image-1735.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,9,Test
+359,Cluster-Safe-\\2\\image-792.jpg,1,Anomaly,Issue,A10 Foundations,A SUBSTRUCTURE,9,Test
+408,Cluster-Safe-\\2\\image-1137.jpg,1,Anomaly,Issue,Special Mechanical Systems,Mechanical,9,Test
+536,Cluster-Safe-\\3\\image-147.jpg,1,Anomaly,Risk,Special Mechanical Systems,Mechanical,9,Test
+616,Cluster-Safe-\\3\\image-913.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+628,Cluster-Safe-\\3\\image-1047.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+675,Cluster-Safe-\\3\\image-1464.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+730,Cluster-Safe-\\3\\image-1986.jpg,1,Anomaly,Risk,G30 Site Mechanical Utilities,G BUILDING SITEWORK,9,Test
+752,Cluster-Safe-\\6\\image-119.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+847,Cluster-Safe-\\6\\image-930.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+953,Cluster-Safe-\\6\\image-1714.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+1197,Cluster-Safe-\\9\\image-240.jpg,1,Anomaly,Risk,,#N/A,9,Test
+1212,Cluster-Safe-\\9\\image-474.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+1266,Cluster-Safe-\\9\\image-1149.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+1319,Cluster-Safe-\\9\\image-1728.jpg,1,Anomaly,Issue,,#N/A,9,Test
+1335,Cluster-Safe-\\9\\image-1956.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+1354,Cluster-Safe-\\13\\image-151.jpg,1,Anomaly,Risk,,#N/A,9,Test
+1372,Cluster-Safe-\\13\\image-381.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+1520,Cluster-Safe-\\14\\image-155.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+1564,Cluster-Safe-\\14\\image-802.jpg,1,Anomaly,Issue,,#N/A,9,Test
+1583,Cluster-Safe-\\14\\image-1069.jpg,1,Anomaly,Issue,,#N/A,9,Test
+1603,Cluster-Safe-\\14\\image-1400.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+1705,Cluster-Safe-\\17\\image-519.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+1757,Cluster-Safe-\\17\\image-1036.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+1812,Cluster-Safe-\\17\\image-1634.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+114,Cluster-Safe-\\0\\image-944.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,9,Test
+138,Cluster-Safe-\\0\\image-1144.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,9,Test
+196,Cluster-Safe-\\0\\image-1618.jpg,1,Anomaly,Risk,A10 Foundations,A SUBSTRUCTURE,9,Test
+505,Cluster-Safe-\\2\\image-1851.jpg,1,Anomaly,Risk,F10 Special Construction,F SPECIAL CONSTRUCTION & DEMOLITION,9,Test
+575,Cluster-Safe-\\3\\image-576.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+979,Cluster-Safe-\\6\\image-1995.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+987,Cluster-Safe-\\8\\image-85.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+1048,Cluster-Safe-\\8\\image-610.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+1101,Cluster-Safe-\\8\\image-1060.jpg,1,Anomaly,Risk,,#N/A,9,Test
+1240,Cluster-Safe-\\9\\image-746.jpg,1,Anomaly,Issue,,#N/A,9,Test
+1340,Cluster-Safe-\\13\\image-1.jpeg,0,Normal,Potential Issue,,#N/A,9,Test
+1341,Cluster-Safe-\\13\\image-10.jpeg,1,Anomaly,Issue,,#N/A,9,Test
+1481,Cluster-Safe-\\13\\image-1675.jpg,1,Anomaly,Risk,,#N/A,9,Test
+1697,Cluster-Safe-\\17\\image-390.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+1698,Cluster-Safe-\\17\\image-429.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+1752,Cluster-Safe-\\17\\image-1001.jpg,1,Anomaly,Issue,,#N/A,9,Test
+108,Cluster-Safe-\\0\\image-878.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+403,Cluster-Safe-\\2\\image-1100.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+594,Cluster-Safe-\\3\\image-756.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+631,Cluster-Safe-\\3\\image-1074.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+638,Cluster-Safe-\\3\\image-1154.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+677,Cluster-Safe-\\3\\image-1492.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+750,Cluster-Safe-\\6\\image-86.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,9,Test
+782,Cluster-Safe-\\6\\image-383.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+852,Cluster-Safe-\\6\\image-963.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+861,Cluster-Safe-\\6\\image-1053.jpg,1,Anomaly,Issue,,#N/A,9,Test
+900,Cluster-Safe-\\6\\image-1323.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+992,Cluster-Safe-\\8\\image-122.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+1014,Cluster-Safe-\\8\\image-332.jpg,1,Anomaly,Risk,,#N/A,9,Test
+1361,Cluster-Safe-\\13\\image-273.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+1461,Cluster-Safe-\\13\\image-1477.jpg,0,Normal,No Issue,,#N/A,9,Test
+1467,Cluster-Safe-\\13\\image-1543.jpg,1,Anomaly,Issue,,#N/A,9,Test
+1600,Cluster-Safe-\\14\\image-1370.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+1644,Cluster-Safe-\\14\\image-1795.jpg,1,Anomaly,Risk,,#N/A,9,Test
+1654,Cluster-Safe-\\14\\image-1911.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+1714,Cluster-Safe-\\17\\image-629.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+1789,Cluster-Safe-\\17\\image-1454.jpg,1,Anomaly,Risk,,#N/A,9,Test
+1802,Cluster-Safe-\\17\\image-1560.jpg,1,Normal,Potential Risk,,#N/A,9,Test
+1821,Cluster-Safe-\\17\\image-1718.jpg,1,Anomaly,Risk,,#N/A,9,Test
+2,Cluster-Safe-\\0\\image-9.jpeg,0,Normal,Potential Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,9,Test
+42,Cluster-Safe-\\0\\image-305.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+187,Cluster-Safe-\\0\\image-1565.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+197,Cluster-Safe-\\0\\image-1620.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+332,Cluster-Safe-\\2\\image-600.jpg,1,Anomaly,Risk,Special Mechanical Systems,Mechanical,9,Test
+630,Cluster-Safe-\\3\\image-1071.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+794,Cluster-Safe-\\6\\image-470.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+897,Cluster-Safe-\\6\\image-1313.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+918,Cluster-Safe-\\6\\image-1436.jpg,1,Anomaly,Risk,,#N/A,9,Test
+1058,Cluster-Safe-\\8\\image-683.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+1202,Cluster-Safe-\\9\\image-334.jpg,1,Anomaly,Issue,,#N/A,9,Test
+1217,Cluster-Safe-\\9\\image-522.jpg,1,Anomaly,Issue,,#N/A,9,Test
+1284,Cluster-Safe-\\9\\image-1311.jpg,1,Anomaly,Risk,,#N/A,9,Test
+1307,Cluster-Safe-\\9\\image-1528.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+1408,Cluster-Safe-\\13\\image-819.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+1494,Cluster-Safe-\\13\\image-1843.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+1605,Cluster-Safe-\\14\\image-1413.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+1670,Cluster-Safe-\\17\\image-77.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+1695,Cluster-Safe-\\17\\image-357.jpg,1,Anomaly,Risk,,#N/A,9,Test
+1706,Cluster-Safe-\\17\\image-532.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+1820,Cluster-Safe-\\17\\image-1704.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+8,Cluster-Safe-\\0\\image-66.jpg,0,Normal,Potential Issue,EQUIPMENT,E EQUIPMENT & FURNISHINGS,9,Test
+40,Cluster-Safe-\\0\\image-295.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+60,Cluster-Safe-\\0\\image-416.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+143,Cluster-Safe-\\0\\image-1221.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,9,Test
+307,Cluster-Safe-\\2\\image-436.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+444,Cluster-Safe-\\2\\image-1410.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,9,Test
+774,Cluster-Safe-\\6\\image-328.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+990,Cluster-Safe-\\8\\image-113.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+1148,Cluster-Safe-\\8\\image-1614.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+1153,Cluster-Safe-\\8\\image-1730.jpg,0,Normal,No Issue,,#N/A,9,Test
+1207,Cluster-Safe-\\9\\image-355.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+1355,Cluster-Safe-\\13\\image-171.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+1439,Cluster-Safe-\\13\\image-1170.jpg,1,Anomaly,Issue,,#N/A,9,Test
+1448,Cluster-Safe-\\13\\image-1340.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+1740,Cluster-Safe-\\17\\image-925.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+103,Cluster-Safe-\\0\\image-828.jpg,1,Anomaly,Issue,Special Mechanical Systems,Mechanical,9,Test
+189,Cluster-Safe-\\0\\image-1574.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+231,Cluster-Safe-\\0\\image-1831.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,9,Test
+310,Cluster-Safe-\\2\\image-481.jpg,1,Anomaly,Risk,F10 Special Construction,F SPECIAL CONSTRUCTION & DEMOLITION,9,Test
+484,Cluster-Safe-\\2\\image-1700.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,9,Test
+573,Cluster-Safe-\\3\\image-540.jpg,1,Anomaly,Risk,Special Mechanical Systems,Mechanical,9,Test
+585,Cluster-Safe-\\3\\image-689.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+758,Cluster-Safe-\\6\\image-193.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+799,Cluster-Safe-\\6\\image-502.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+906,Cluster-Safe-\\6\\image-1367.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+1118,Cluster-Safe-\\8\\image-1218.jpg,1,Anomaly,Risk,,#N/A,9,Test
+1321,Cluster-Safe-\\9\\image-1765.jpg,1,Anomaly,Issue,,#N/A,9,Test
+1561,Cluster-Safe-\\14\\image-770.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+1567,Cluster-Safe-\\14\\image-875.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+1656,Cluster-Safe-\\14\\image-1928.jpg,1,Anomaly,Risk,,#N/A,9,Test
+1723,Cluster-Safe-\\17\\image-732.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+1724,Cluster-Safe-\\17\\image-734.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+1748,Cluster-Safe-\\17\\image-986.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+68,Cluster-Safe-\\0\\image-466.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,9,Test
+93,Cluster-Safe-\\0\\image-762.jpg,1,Anomaly,Risk,Special Mechanical Systems,Mechanical,9,Test
+126,Cluster-Safe-\\0\\image-1051.jpg,1,Anomaly,Risk,G30 Site Mechanical Utilities,G BUILDING SITEWORK,9,Test
+155,Cluster-Safe-\\0\\image-1307.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+181,Cluster-Safe-\\0\\image-1517.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+258,Cluster-Safe-\\2\\image-42.jpeg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,9,Test
+269,Cluster-Safe-\\2\\image-166.jpg,1,Anomaly,Risk,Special Mechanical Systems,Mechanical,9,Test
+323,Cluster-Safe-\\2\\image-545.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+431,Cluster-Safe-\\2\\image-1298.jpg,1,Anomaly,Risk,Special Mechanical Systems,Mechanical,9,Test
+497,Cluster-Safe-\\2\\image-1784.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+517,Cluster-Safe-\\2\\image-1927.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+547,Cluster-Safe-\\3\\image-231.jpg,0,Normal,No Issue,,#N/A,9,Test
+618,Cluster-Safe-\\3\\image-924.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+789,Cluster-Safe-\\6\\image-423.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+824,Cluster-Safe-\\6\\image-695.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+833,Cluster-Safe-\\6\\image-752.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+853,Cluster-Safe-\\6\\image-978.jpg,1,Anomaly,Risk,Special Mechanical Systems,Mechanical,9,Test
+865,Cluster-Safe-\\6\\image-1114.jpg,1,Anomaly,Issue,,#N/A,9,Test
+1043,Cluster-Safe-\\8\\image-574.jpg,1,Anomaly,Risk,,#N/A,9,Test
+1362,Cluster-Safe-\\13\\image-283.jpg,1,Anomaly,Issue,,#N/A,9,Test
+1388,Cluster-Safe-\\13\\image-560.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+1438,Cluster-Safe-\\13\\image-1168.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+1449,Cluster-Safe-\\13\\image-1354.jpg,1,Anomaly,Issue,,#N/A,9,Test
+1601,Cluster-Safe-\\14\\image-1373.jpg,1,Anomaly,Issue,,#N/A,9,Test
+1635,Cluster-Safe-\\14\\image-1689.jpg,1,Anomaly,Risk,,#N/A,9,Test
+1730,Cluster-Safe-\\17\\image-816.jpg,1,Anomaly,Issue,,#N/A,9,Test
+1818,Cluster-Safe-\\17\\image-1699.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+22,Cluster-Safe-\\0\\image-132.jpg,1,Anomaly,Issue,G30 Site Mechanical Utilities,G BUILDING SITEWORK,9,Test
+96,Cluster-Safe-\\0\\image-795.jpg,1,Anomaly,Risk,,#N/A,9,Test
+212,Cluster-Safe-\\0\\image-1744.jpg,1,Anomaly,Risk,G30 Site Mechanical Utilities,G BUILDING SITEWORK,9,Test
+254,Cluster-Safe-\\2\\image-13.jpeg,0,Normal,Potential Issue,,#N/A,9,Test
+584,Cluster-Safe-\\3\\image-685.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+586,Cluster-Safe-\\3\\image-690.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+722,Cluster-Safe-\\3\\image-1868.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+935,Cluster-Safe-\\6\\image-1582.jpg,0,Normal,Potential Risk,,#N/A,9,Test
+964,Cluster-Safe-\\6\\image-1859.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+1011,Cluster-Safe-\\8\\image-319.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+1131,Cluster-Safe-\\8\\image-1351.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+1146,Cluster-Safe-\\8\\image-1562.jpg,1,Anomaly,Issue,,#N/A,9,Test
+1235,Cluster-Safe-\\9\\image-669.jpg,1,Anomaly,Issue,,#N/A,9,Test
+1295,Cluster-Safe-\\9\\image-1435.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+1544,Cluster-Safe-\\14\\image-477.jpg,1,Anomaly,Issue,,#N/A,9,Test
+1551,Cluster-Safe-\\14\\image-591.jpg,1,Anomaly,Risk,,#N/A,9,Test
+1575,Cluster-Safe-\\14\\image-973.jpg,0,Normal,Potential Issue,,#N/A,9,Test
+1687,Cluster-Safe-\\17\\image-272.jpg,1,Anomaly,Risk,,#N/A,9,Test
+1781,Cluster-Safe-\\17\\image-1320.jpg,1,Anomaly,Risk,,#N/A,9,Test
